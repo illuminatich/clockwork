@@ -76,3 +76,4 @@ random.shuffle(api_list)
 
 +   [wangziyingwen](https://github.com/wangziyingwen) ， [AutoApiSecret](https://github.com/wangziyingwen/AutoApiSecret)   
 +    [bindog](https://github.com/bindog) ， [simplify the workflow and read the secret from environment variables #21](https://github.com/wangziyingwen/AutoApiSecret/pull/21)   
+2021/06/22
